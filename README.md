@@ -9,8 +9,8 @@ I am a passionate software developer with a keen interest in java and Data analy
 
 ## Skills
 
-- **Programming Languages**: Java, Python, JavaScript, TypeScript
-- **Frameworks/Libraries**: React, Spring Boot
+- **Programming Languages**: Java, Python, JavaScript
+- **Frameworks/Libraries**: React
 - **Tools**: Git, Selenium
 - **Databases**: MySQL, MongoDB
 
