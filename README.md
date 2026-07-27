@@ -148,4 +148,8 @@ _MMHAPU, Patna | 2019 – 2022_
   <a href="https://github.com/pkr-9">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <!-- portfolio -->
+  <a href="https://www.sgengineered.in/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
