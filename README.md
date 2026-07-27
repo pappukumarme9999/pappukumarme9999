@@ -20,9 +20,9 @@
   <div style="flex: 1; min-width: 300px; max-width: 600px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkr-9&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
+  <!-- <div style="flex: 1; min-width: 300px; max-width: 600px;">
     <img src="https://github-readme-stats-omega-wine-71.vercel.app/api?username=pkr-9&show_icons=true&theme=radical" alt="Pappu's GitHub Stats" style="width: 100%; height: auto;">
-  </div>
+  </div> -->
 </div>
 
 ## ✨ Highlights
